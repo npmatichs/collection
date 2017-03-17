@@ -1,0 +1,19 @@
+{
+  "name": "collection",
+  "version": "1.0.0",
+  "description": "collection data instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@10.1.1.159:npm-packages/collection.git"
+  },
+  "keywords": [
+    "collection",
+    "nodejs"
+  ],
+  "author": "magrigoroae",
+  "license": "ISC"
+}
