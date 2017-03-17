@@ -17,6 +17,7 @@
   "author": "magrigoroae",
   "license": "ISC",
   "dependencies": {
-    "helpers": "git+ssh://git@10.1.1.159:npm-packages/helpers.git"
+    "helpers": "git+ssh://git@10.1.1.159:npm-packages/helpers.git",
+    "pagination": "git+ssh://git@10.1.1.159:npm-packages/pagination.git"
   }
 }
