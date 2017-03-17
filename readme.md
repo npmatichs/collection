@@ -1,6 +1,6 @@
 # API docs will be soon ..
 
-Check the ```index.js``` file to meet with js-docs hot to use that.
+Check the ```index.js``` file to meet with method's js-docs how to use that.
 
 # Install
 
@@ -13,4 +13,16 @@ HTTP:
 
 ```
 npm install git+http://git.devebs.net/npm-packages/collection.git --save
+```
+
+# Example of using:
+
+```
+
+let Collection = requrie('collection');
+
+let fruits = [ 'apple', 'orange', 'bannana' ];
+
+let fruitCollection = (new Collection(fruits));
+
 ```
