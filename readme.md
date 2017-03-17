@@ -1,3 +1,7 @@
+# Collection data instance.
+
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/npmatichs/collection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/collection/?branch=master)
+
 # API docs will be soon ..
 
 Check the ```index.js``` file to meet with method's js-docs how to use that.
