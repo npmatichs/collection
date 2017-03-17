@@ -1,4 +1,4 @@
-let h = require('../administrator/helpers');
+let h = require('helpers');
 let Paginator = require('./paginator');
 
 class Collection {

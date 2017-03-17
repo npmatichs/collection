@@ -15,5 +15,8 @@
     "nodejs"
   ],
   "author": "magrigoroae",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "helpers": "git+ssh://git@10.1.1.159:npm-packages/helpers.git"
+  }
 }
