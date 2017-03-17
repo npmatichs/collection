@@ -1,5 +1,6 @@
 # Collection data instance.
 
+[![Build Status](https://scrutinizer-ci.com/g/npmatichs/collection/badges/build.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/collection/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/npmatichs/collection/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/npmatichs/collection/?branch=master)
 
 # API docs will be soon ..
